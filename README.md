@@ -40,6 +40,13 @@ or
 my Git branch
 [Python Hello World](/helloWorld.py)
 
-These are [Google] [1] and [Facebook] [2].
-  [1]:https://www.google.com/
-  [2]:https://www.facebook.com/?ref=home/
+These are [Google][1] and [Facebook][2].
+  [1]: https://www.google.com/
+  [2]: https://www.facebook.com/?ref=home/
+
+I get 10 times more traffic from [Google][1] than from
+[Yahoo][2] or [MSN][3].
+
+  [1]: http://google.com/        "Google搜尋"
+  [2]: http://search.yahoo.com/  "Yahoo 搜尋"
+  [3]: http://search.msn.com/    "MSN 搜尋"
