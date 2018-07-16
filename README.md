@@ -13,4 +13,25 @@
 
 > New Taipei City
 >> Sanxia Dist.
->>> NTPU
+>>> National
+>>> Taipei
+>>> University
+
+* first circle
+* second circle
+* third circle
+
++ one with background
++ two with background
++ three with background
+
+- one
+- two
+- three
+
+``` horizontal line ```
+___ 
+--- 
+*** 
+[Google](https://www.google.com)
+<https://www.google.com>
