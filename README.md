@@ -46,7 +46,7 @@ These are [Google][1] and [Facebook][2].
 This is **Bold Word**.  
 This is *itaric word*.  
 This is ~~Delete Line~~.  
-table:  
+table:(table needs two empty line, one is above of table, the other is under the table)  
 
 | Left-Aligned  | Center-Aligned | Right-Aligned | 
 | :------------ |:--------------:| -------------:| 
