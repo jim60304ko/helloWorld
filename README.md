@@ -47,10 +47,12 @@ This is **Bold Word**.
 This is *itaric word*.  
 This is ~~Delete Line~~.  
 table:  
-| Left-Aligned   | Center-Aligned   | Right-Aligned   | 
-| :------------ |:--------------:| -------------:| 
-| test 1 left   | test 1 center  |  test 1 right | 
-| test 2 left   | test 2 center  |  test 2 right | 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 
 HTML Picture test:  
