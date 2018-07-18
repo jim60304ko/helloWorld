@@ -48,3 +48,8 @@ These are [Google][1] and [Facebook][2].
 This is **Bold Word**
 This is *itaric word*
 This is ~~Delete Line~~
+
+| Left-Aligned | Center-Aligned | Right-Aligned |
+| :----------- | :-------------:| ------------: |
+| test 1 left  | test 1 center  | test 1 right  |
+| test 2 left  | test 2 center  | test 2 right  |
