@@ -46,8 +46,12 @@ These are [Google][1] and [Facebook][2].
 This is **Bold Word**.  
 This is *itaric word*.  
 This is ~~Delete Line~~.  
-
+table:
 | Left-Aligned | Center-Aligned | Right-Aligned |
 | :----------- | :-------------:| ------------: |
 | test 1 left  | test 1 center  | test 1 right  |
 | test 2 left  | test 2 center  | test 2 right  |
+
+Picture test:
+![GITHUB](https://dl.dropboxusercontent.com/u/2226591/GIT/dojocat.jpg "git圖示")  
+  
