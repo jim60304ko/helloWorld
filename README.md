@@ -45,9 +45,9 @@ These are [Google][1] and [Facebook][2].
   [1]: https://www.google.com/
   [2]: https://www.facebook.com/?ref=home/
 
-This is **Bold Word**
-This is *itaric word*
-This is ~~Delete Line~~
+This is **Bold Word**.
+This is *itaric word*.
+This is ~~Delete Line~~.
 
 | Left-Aligned | Center-Aligned | Right-Aligned |
 | :----------- | :-------------:| ------------: |
