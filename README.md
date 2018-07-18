@@ -53,5 +53,5 @@ table:
 | test 2 left  | test 2 center  | test 2 right  |
 
 Picture test:
-![GITHUB](<a data-flickr-embed="true"  href="https://www.flickr.com/gp/110756426@N06/jS72E0" title="IMG_20140218_153705"><img src="https://farm4.staticflickr.com/3853/14822695093_632dba1af4_k.jpg" width="1536" height="2048" alt="IMG_20140218_153705"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> "git圖示")  
+<a data-flickr-embed="true"  href="https://www.flickr.com/gp/110756426@N06/jS72E0" title="IMG_20140218_153705"><img src="https://farm4.staticflickr.com/3853/14822695093_632dba1af4_k.jpg" width="1536" height="2048" alt="IMG_20140218_153705"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   
